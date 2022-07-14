@@ -1,6 +1,7 @@
 ### Hi there👋
 
-![Isometric Stickers - Kanban Board](https://user-images.githubusercontent.com/98151725/178896132-9da59bc0-4fc3-49c8-b2be-f9712aacbaac.png)
+![Beep Beep - Traffic Jam](https://user-images.githubusercontent.com/98151725/178896777-d4c7609a-9a06-4192-b9b2-b1b5597091f8.png)
+
 
 I'm Shargeru from Indonesia, or you can call me Marvell. I have a passion for learning new stuff and making some incredible ideas. and experience in web development, mainly at the backend.
 
