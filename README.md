@@ -1,6 +1,6 @@
 ### Hi there👋 
 
-![giphy](https://user-images.githubusercontent.com/98151725/187053666-d2318f47-4ede-44ee-ae8e-65e5ab4f3de5.gif width=100 height=100)
+![giphy](https://user-images.githubusercontent.com/98151725/187053666-d2318f47-4ede-44ee-ae8e-65e5ab4f3de5.gif)
 
 
 I'm Shargeru from Indonesia, or you can call me Marvell. I have a passion for learning new stuff and making some incredible ideas. and experience in web development, mainly at the backend.
